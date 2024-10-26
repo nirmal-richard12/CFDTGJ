@@ -1,5 +1,5 @@
 
-public class CharDemo {
+public class DSG {
 
 	public static void main(String[] args) {
 		char ch = 'a'; 
